@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: devfile-sample-python-basic-rhtap-mc-unsuported-runtime
     app.kubernetes.io/part-of: mc-unsupported-runtime
-  name: devfile-sample-python-basm7b6
+  name: devfile-sample-python-bas6u0r
 spec:
   path: /
   port:
